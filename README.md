@@ -56,6 +56,12 @@ Created an **Impact Factor** to highlight lanes that combine low performance wit
 
 Impact Factor = Volume × (Average Load Score - Load Score)
 
+## SQL Query
+
+The SQL query used to extract and aggregate shipment data can be found here:
+
+[View SQL Query](sql/lane_analysis_query.sql)
+
 ## Visualizations
 This project includes 3 Tableau dashboards:
 1. Scatterplot showing lane performance by volume and load score
@@ -83,3 +89,5 @@ This project includes 3 Tableau dashboards:
 
 ## About
 This project was created as part of a data analytics portfolio and demonstrates skills in SQL, Excel, Tableau, business analysis, and data storytelling.
+
+
