@@ -1,3 +1,7 @@
+-- Shipping Lanes Analysis
+-- Purpose: Identify top lanes by volume and evaluate revenue efficiency
+-- Data Source: LEGHEADER and ORDERHEADER tables
+-- Timeframe: 2025
 
 SELECT 
 --SELECTING THE COLUMNS THAT WILL BE NEEDED FOR ANALYSIS.  I SUSPECT SOME OF THESE WILL GET REMOVED.
