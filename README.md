@@ -68,7 +68,7 @@ This project includes 3 Tableau dashboards:
 2. Bar chart of high-impact underperforming lanes
 3. Bar chart showing estimated rate increase needed to reach average performance
 
-- ## Visualizations
+## Visualizations
 
 ### Lane Performance (Volume vs Efficiency)
 ![scatterplot](visuals/dashboard-scatterplot.png)
@@ -98,6 +98,13 @@ This project includes 3 Tableau dashboards:
 - `visuals/` – Dashboard screenshots
 - `docs/` – Project summary export
 - `README.md` – Full project overview
+
+## What I Learned
+
+- How to translate a business problem into measurable performance metrics
+- How to evaluate efficiency using both time-based and distance-based revenue metrics
+- How to prioritize issues using a combination of performance and volume
+- How to use data visualization to clearly communicate operational insights
 
 
 
