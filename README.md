@@ -12,14 +12,14 @@ The analysis focuses on the top 15 lanes by shipment volume in 2025 and evaluate
 - Revenue per mile
 - Shipment volume
 
-These metrics were combined into a weighted load score, with greater weight assigned to revenue per hour.
+These metrics were combined into a weighted load score, emphasizing revenue per hour over revenue per mile.
 
 ## Key Findings
 - 4 lanes were identified as **high-impact underperformers**
-- These lanes had both below-average load scores and above-average shipment volume
+- These lanes had both **below-average load scores** and **above-average shipment volume**
 - One lane, **Baltimore MD to Struthers OH**, was especially weak and would require an estimated **93.4% rate increase** to reach average performance
-- Several lower-volume lanes also underperformed, but their overall business impact was smaller
-- 10 lanes performed above average, with 6 showing strength in both efficiency and volume
+- Several lower-volume lanes also **underperformed**, but their overall business impact was smaller
+- 10 lanes performed **above average**, with 6 showing strength in both efficiency and volume
 
 ## Business Problem
 Allied Logistics needed to prepare its annual bid package for its largest customer. The goal was to identify which high-volume lanes were underperforming so pricing decisions could be adjusted accordingly.
