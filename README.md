@@ -76,6 +76,9 @@ This project includes 3 Tableau dashboards:
 ### High-Impact Underperforming Lanes
 ![Impact](visuals/dashboard-impact.png)
 
+### Required Rate Adjustments
+![Rate Increase](visuals/dashboard-rate-increase.png)
+
 
 ## Key Findings
 - 4 lanes were identified as **high-impact underperformers**
