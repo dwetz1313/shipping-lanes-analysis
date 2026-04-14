@@ -87,6 +87,11 @@ This project includes 3 Tableau dashboards:
 - `docs/` – Project summary export
 - `README.md` – Full project overview
 
+- ## Visualizations
+
+### Lane Performance (Volume vs Efficiency)
+![Scatterplot](visuals/dashboard-scatterplot.png)
+
 ## About
 This project was created as part of a data analytics portfolio and demonstrates skills in SQL, Excel, Tableau, business analysis, and data storytelling.
 
