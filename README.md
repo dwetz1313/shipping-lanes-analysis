@@ -73,6 +73,9 @@ This project includes 3 Tableau dashboards:
 ### Lane Performance (Volume vs Efficiency)
 ![scatterplot](visuals/dashboard-scatterplot.png)
 
+### High-Impact Underperforming Lanes
+![Impact](visuals/dashboard-impact.png)
+
 
 ## Key Findings
 - 4 lanes were identified as **high-impact underperformers**
