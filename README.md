@@ -1,6 +1,6 @@
 # shipping-lanes-analysis
 Freight lane revenue-efficiency analysis using SQL, Excel, and Tableau
-# Shipping Lanes Analysis
+
 
 A portfolio data analytics case study focused on identifying high-volume freight lanes with poor revenue efficiency.
 
@@ -13,6 +13,12 @@ The analysis focuses on the top 15 lanes by shipment volume in 2025 and evaluate
 - Shipment volume
 
 These metrics were combined into a weighted load score, with greater weight assigned to revenue per hour.
+
+## Key Findings
+
+- Identified 4 high-impact underperforming lanes driving revenue inefficiency
+- One lane required a ~93% rate increase to reach average performance
+- 10 lanes performed above average, with 6 strong in both volume and efficiency
 
 ## Business Problem
 Allied Logistics needed to prepare its annual bid package for its largest customer. The goal was to identify which high-volume lanes were underperforming so pricing decisions could be adjusted accordingly.
