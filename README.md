@@ -68,6 +68,12 @@ This project includes 3 Tableau dashboards:
 2. Bar chart of high-impact underperforming lanes
 3. Bar chart showing estimated rate increase needed to reach average performance
 
+- ## Visualizations
+
+### Lane Performance (Volume vs Efficiency)
+![Scatterplot](visuals/dashboard-scatterplot.png)
+
+
 ## Key Findings
 - 4 lanes were identified as **high-impact underperformers**
 - These lanes had both below-average load scores and above-average shipment volume
@@ -87,10 +93,7 @@ This project includes 3 Tableau dashboards:
 - `docs/` – Project summary export
 - `README.md` – Full project overview
 
-- ## Visualizations
 
-### Lane Performance (Volume vs Efficiency)
-![Scatterplot](visuals/dashboard-scatterplot.png)
 
 ## About
 This project was created as part of a data analytics portfolio and demonstrates skills in SQL, Excel, Tableau, business analysis, and data storytelling.
