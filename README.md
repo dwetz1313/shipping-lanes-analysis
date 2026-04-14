@@ -78,7 +78,7 @@ This project includes 3 Tableau dashboards:
 ### Lane Performance (Volume vs Efficiency)
 ![scatterplot](visuals/dashboard-scatterplot.png)
 
-This scatterplot highlights lane performance by volume and efficiency, with the upper-left quadrant identifying high-volume, low-efficiency lanes requiring attention.
+This scatterplot highlights lane performance by volume and efficiency, with the lower-right quadrant identifying high-volume, low-efficiency lanes requiring attention.
 
 ### High-Impact Underperforming Lanes
 ![Impact](visuals/dashboard-impact.png)
