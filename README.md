@@ -71,7 +71,7 @@ This project includes 3 Tableau dashboards:
 - ## Visualizations
 
 ### Lane Performance (Volume vs Efficiency)
-![Scatterplot](visuals/dashboard-scatterplot.png)
+![scatterplot](visuals/dashboard-scatterplot.png)
 
 
 ## Key Findings
