@@ -68,7 +68,10 @@ This project includes 3 Tableau dashboards:
 2. Bar chart of high-impact underperforming lanes
 3. Bar chart showing estimated rate increase needed to reach average performance
 
+- ## Visualizations
 
+### Lane Performance (Volume vs Efficiency)
+![Scatterplot](visuals/dashboard-scatterplot.png)
 
 
 ## Key Findings
